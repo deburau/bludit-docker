@@ -1,8 +1,3 @@
-# deburau/bludit-docker
-
-[![badge1](https://img.shields.io/docker/pulls/deburau/bludit?logo=appveyor)](https://hub.docker.com/r/deburau/grav)
-[![badge2](https://github.com/deburau/bludit-docker/workflows/ci/badge.svg)](https://hub.docker.com/r/deburau/grav)
-
 # What is this repository?
 
 This repository is a fork of [laugmanuel/bludit-docker](https://github.com/laugmanuel/bludit-docker) and serves as a base for the `deburau/bludit` Docker image: https://github.com/deburau/bludit-docker
