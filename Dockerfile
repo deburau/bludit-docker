@@ -1,7 +1,7 @@
 FROM alpine:latest
 ARG BLUDIT_VERSION=3-13-1
 
-LABEL maintainer="Manuel Laug <bludit@flexoft.net>"
+LABEL maintainer="Werner Fleck <bludit@flexoft.net>"
 LABEL name="deburau/bludit"
 
 RUN addgroup -g 555 -S nginx \
