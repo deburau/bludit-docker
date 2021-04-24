@@ -1,1 +1,3 @@
-bl-*/
+docker-compose.override.yml
+.env
+html/**
